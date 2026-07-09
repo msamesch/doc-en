@@ -344,7 +344,7 @@
     <member><constant>PDO::ODBC_SQL_USE_ODBC</constant> => <constant>Pdo\Odbc::SQL_USE_ODBC</constant></member>
     <member><constant>PDO::PGSQL_ATTR_DISABLE_PREPARES</constant> => <constant>Pdo\Pgsql::ATTR_DISABLE_PREPARES</constant></member>
     <member><constant>PDO::SQLITE_ATTR_EXTENDED_RESULT_CODES</constant> => <constant>Pdo\Sqlite::ATTR_EXTENDED_RESULT_CODES</constant></member>
-    <member><constant>PDO::SQLITE_ATTR_OPEN_FLAGS</constant> => <constant>Pdo\Sqlite::OPEN_FLAGS</constant></member>
+    <member><constant>PDO::SQLITE_ATTR_OPEN_FLAGS</constant> => <constant>Pdo\Sqlite::ATTR_OPEN_FLAGS</constant></member>
     <member><constant>PDO::SQLITE_ATTR_READONLY_STATEMENT</constant> => <constant>Pdo\Sqlite::ATTR_READONLY_STATEMENT</constant></member>
     <member><constant>PDO::SQLITE_DETERMINISTIC</constant> => <constant>Pdo\Sqlite::DETERMINISTIC</constant></member>
     <member><constant>PDO::SQLITE_OPEN_READONLY</constant> => <constant>Pdo\Sqlite::OPEN_READONLY</constant></member>
