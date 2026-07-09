@@ -340,19 +340,6 @@
 
   </sect3>
 
-  <sect3 xml:id="migration85.other-changes.extensions.opcache">
-   <title>Opcache</title>
-
-   <simpara>
-    The <link linkend="book.opcache">Opcache extension</link> is now always
-    built into the PHP binary and is always loaded.
-    The INI directives <link linkend="ini.opcache.enable">opcache.enable</link>
-    and <link linkend="ini.opcache.enable-cli">opcache.enable_cli</link> are
-    still honored.
-   </simpara>
-
-  </sect3>
-
   <sect3 xml:id="migration85.other-changes.extensions.pcre">
    <title>PCRE</title>
 
